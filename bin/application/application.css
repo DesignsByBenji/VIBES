@@ -1,0 +1,25 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.NewsOutlet {
+	-fx-font-size: 20pt;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-underline: true;
+}
+
+.Title {
+	-fx-font-weight: bold;
+	-fx-text-fill: darkred;
+	-fx-focus-color: transparent;
+}
+
+.container {
+	-fx-background-color:darkred;
+	-fx-padding: 10, 0, 0, 0;
+}
+
+.articleBlock {
+	-fx-background-color: white;
+	-fx-padding: 10 10 10 10;
+	-fx-indent:  10px;
+}
